@@ -3,4 +3,4 @@ git remote add origin https://github.com/mihai-ciorobitca/school-networkstudio-t
 git branch -M test1
 git add .
 git commit -m "Initial commit"
-git push -u origin test1
+git push -u origin test2
